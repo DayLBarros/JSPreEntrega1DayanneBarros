@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background: radial-gradient(circle, #ff7e5f, #feb47b); 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin: 0; 
+}
+
+h1{
+    font-size: 5em;  
+    font-weight: bold; 
+    color: #333;  
+    text-align: center;  
+}
